@@ -21,6 +21,7 @@ public class BasicCalculator {
         
         boolean quit = false;
         // input validation using while loop and switch 
+        // test comment
         while (!quit) {
         Scanner input = new Scanner(System.in);
         System.out.println("Would you like to add, subtract, divide, multiply, or quit?");
